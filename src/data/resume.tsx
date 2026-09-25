@@ -3,6 +3,7 @@ import { FileTextIcon, HomeIcon } from "lucide-react";
 
 export const DATA = {
   name: "Aryan Bhati",
+  udyamNumber: "UDYAM-GJ-13-0122500",
   initials: "AB",
   url: "https://aryanbhati.com",
   location: "India",
